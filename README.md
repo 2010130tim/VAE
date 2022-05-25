@@ -1,2 +1,3 @@
-# VAE
-Developing functional data analysis tools for analyzing high-throughput experimental spectra
+#Models for Infinity Dimensions (MID)
+
+The MID project (Machine Learning for analyze high-throughput experimental spectra) aims to produce a machine learning program that can return the physical meaning behind the spectra. Considering the continuously growing research interest in using high throughput experiments in characterizations of newly synthesized samples/materials, tons of spectra data are being conducted, and thus an efficient toolkit for analyzing data is in great need. In this project, the program is built up with an unsupervised machine learning model (analyze data) and a graphical user interface (for dataset determination & output display). The model will lower the dimension of a given dataset and the lower-dimensional representative dataset will be stored in a local file. The users are thus able to access the GUI by specifying peak parameters of interest and the program will return analyzed result based on the reconstruction of lower-dimensional representative dataset to the original dataset.
