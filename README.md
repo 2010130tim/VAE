@@ -21,7 +21,7 @@ Install and activate the 'MID' environment in your desired directory with the fo
 
 `conda env create -f environment.yml`
 
-`conda activate selec`
+`conda activate MID`
 
 This enviroment contains the following packages: <br>
 - jupyter
