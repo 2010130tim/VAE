@@ -33,12 +33,13 @@ This enviroment contains the following packages: <br>
 
 -----
 ## Organization
-```
--MID-
-UW Chemical Engineering
-Clean Energy Institute
-uw Direct           
-```
+
+
+- UW Chemical Engineering
+- Clean Energy Institute
+- UW Direct           
+
+<img src=https://github.com/Bella-cell/VAE/blob/main/doc/organization.png width=300 p align="center">
 
 -----
 ## spectrum Data
