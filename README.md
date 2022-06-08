@@ -35,11 +35,11 @@ This enviroment contains the following packages: <br>
 ## Organization
 
 
-- UW Chemical Engineering
-- Clean Energy Institute
+- UW Chemical Engineering<img src=https://github.com/Bella-cell/VAE/blob/main/doc/organization_iamge.png width=600 p align="right">
+- Clean Energy Institute 
 - UW Direct           
 
-<img src=https://github.com/Bella-cell/VAE/blob/main/doc/organization.png width=300 p align="center">
+
 
 -----
 ## spectrum Data
